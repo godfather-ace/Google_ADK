@@ -3,7 +3,7 @@
 Artifacts used during Google's ADK Workshop. 
 
 Steps: 
-1. Make the necessary project 
+1. Create a project folder (uv package is recommended, else mkdir)
 2. Create and activate a virtual environment 
 3. Install the required libraries
 
